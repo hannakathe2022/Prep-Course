@@ -1,0 +1,26 @@
+PRIMERA TAREEA DE JAVASCRIPT
+
+EXPLICACION TEORICA DE CONCEPTOS
+
+1) VARIABLES. Las variables son objetos en donde puedes almacenar valores.
+Los valores de estas variables pueden ser cualquiera, desde un numero hasta
+una cadena de caracteres, tambien estos valores pueden ser cambiados en una 
+variable y actualizados cada que se realice un cambio, o pueden ser constantes
+las cuales no pueden ser cambiados.
+
+2) STRINGS. Son cadenas de caracteres, basicamente texto libre con el que podemos
+realizar operaciones segun el lenguaje de porgramacion con el que estemos trabajando.
+
+3) FUNCIONES. Las funciones como su nombre lo dice son funciones con las cuales podemos 
+realizar cualquier accion dependiendo de la funcion que le hallamos dado.
+ 3.1) ARGUMENTOS. Estos son como las variables que se van a utilizar dentro de la funcion
+ para realizar una tarea en especifico.
+ 3.2) RETURN. Es una forma de devolver el valor o la respuesta esperada de una funcion, o de 
+ alguna peticion que arroje un resultado en general.
+
+4) DECLARACIONES (IF). If es un condicional que basicamente significa que si cierta cosa 
+no se realiza, realice otras.
+
+5) VALORES BOOLEANOS. Basicamente es la forma en la que nos podemos comunicar mas facilmente 
+con el lenguaje de la computadora, 1 y 0, en donde true=1 y false=0.
+
