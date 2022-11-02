@@ -128,18 +128,11 @@ function fizzBuzz(numero) {
   // Si "numero" es divisible entre 5, devuelve "buzz"
   // Si "numero" es divisible entre 3 y 5 (ambos), devuelve "fizzbuzz"
   // De lo contrario, devuelve el numero
-  if (numero%3===0){
-    return 'fizz'
-  } 
-  if (numero%5===0){
-    return 'buzz'
-  }
-  if (numero%15===0){
-    return 'fizzbuzz'
-  }
-  else {
-    return numero
-  }
+  if (numero%15===0) return 'fizzbuzz';
+  if (numero%3===0) return 'fizz';
+  if (numero%5===0 ) return 'buzz';
+  return numero
+  
 }
 
 function operadoresLogicos(num1, num2, num3) {
@@ -150,17 +143,17 @@ function operadoresLogicos(num1, num2, num3) {
   //0 no es ni positivo ni negativo. Si alguno de los argumentos es 0, retornar "Error".
   //Si no se cumplen ninguna de las condiciones anteriores, retornar false. 
   
-  if (num1>num2 && num1>num3 && num1>0){
-    return 'Numero 1 es mayor positivo'
-  }
   if (num1<0 || num2<0 || num3<0) {
     return 'Hay negativos'
   }
-  if (num3>num1 && num3>num2){
-    return num3++
-  }
-  if (num1===0 || num2===0 || num3===0) {
+  else if (num1===0 || num2===0 || num3===0) {
     return 'Error'
+  }
+  else if (num1>num2 && num1>num3 && num1>0){
+    return 'Número 1 es mayor y positivo'
+  }
+  else if (num3>num1 && num3>num2){
+    return num3+1
   }
   else {
     return false
@@ -180,7 +173,7 @@ function esPrimo(numero) {
       return false
     }
   }
-
+  return true
 }
 
 function esVerdadero(valor){
@@ -200,11 +193,11 @@ function tablaDelSeis(){
   //Escribe una función que muestre la tabla de multiplicar del 6 (del 0 al 60).
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí   
-  let tablas=[]
-  for ( let i=0 ; i<=11 ; i++){
-    tablas.push(6*i)
+  let arrayTablas=[]
+  for ( let i=0 ; i<11 ; i++){
+    arrayTablas.push(6*i)
   }
-  return tablas
+  return arrayTablas
 }
 
 function tieneTresDigitos(numero){
