@@ -1,0 +1,22 @@
+SEGUNDA TAREA DE JAVASCRIPT
+
+1) FOR. For es un tipo de blucle en el que se puede iterar
+el código cuantas veces uno quiera segun los parametros planteados
+en el código. La sintaxis de dicho blucle consiste en:
+    for(definir la variable iteradora; limite de la variable iteradora; incremento de la variable){
+
+    }
+
+2) AND (&&). Este es un operador logico que significa y, usado frecuentemente
+en condicionales, y este consiste en que las dos condiciones deben ser 
+reales para que se cumpla el bloque de codigo que esta dentro de dicho condicionales
+
+3) OR (||). Este es un operador logico al igual que &&, la diferencia de este
+es que no es necesario que todas las condiciones se cumplan para que se ejecute 
+el bloque de codigo, con que una sola condicion sea verdadera, el bloque de codigo 
+a continuacion se va a cumplir
+
+4) NOT (!). Al igual que los anteriores es un operador logico que significa no, en este caso 
+se espera de este operador que retorne lo contrario a la condicion, por ejemplo
+    if (name!true)
+        return false 
