@@ -1,0 +1,19 @@
+CUARTA TAREA JAVA SCRIPT
+
+1) OBJETOS. Son contenedores igual que las matrices pero a diferencia de estos
+los objetos contienen informacion de una unica cosa en especifico. 
+A esta informacion en especifico se le llaman propiedades. 
+
+2) PROPIEDADES. Son basicamente las caracteristicas principales
+de los objetos, y estas pueden ser eliminadas mediante el KEYWORD delete
+
+3) METODOS. Los metodos son las funciones creadas en el interior
+de un objeto
+
+4) BUCLE FOR...IN. Este es un bucle en especifico que funciona para iterar
+adentro de un objeto, ya que los objetos como tal no tienen indices estos 
+no pueden ser iterados de la forma normal por decirlo asi.
+
+5) NOTACION DE PUNTOS vs NOTACION DE CORCHETES. Basicamente los dos cumplen con la misma
+funcion que seria acceder a las propiedades de los objetos, la diferencia es que se podria decir que 
+un metodo es mas facil y mmas corto de realizar, que seria el de los puntos. 
