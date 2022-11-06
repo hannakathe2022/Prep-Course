@@ -1,0 +1,6 @@
+TERCERA TAREA DE JAVA SCRIPT
+
+ARRAYS. Estos se pueden definir como una  matriz
+de cadena de caracteres con los cuales se pueden 
+usar ciertos metodos para realizar "operaciones"
+con dichas cadenas de caracteres. 
