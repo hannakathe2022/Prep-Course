@@ -12,6 +12,7 @@
             font-family: sans-serif;
          }
         .divClass{
+            text-align: center;
             background: rgb(0, 0, 0);
             color: rgb(255, 255, 255);
             font-size: 20px;
@@ -20,6 +21,7 @@
             height: 300px;
         } 
         .divClass1{
+            text-align: center;
             background: rgb(0, 0, 0);
             color: rgb(255, 255, 255);
             font-size: 20px;
