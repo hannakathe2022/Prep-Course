@@ -85,7 +85,7 @@
     letter-spacing: 1;
     text-align: center;
     margin-top: 0 auto;
-    padding-top: 250px;
+    padding-top: 200px;
     margin-right: 200px;
 
 }
@@ -99,9 +99,291 @@
     padding-left: 400px;
 }
 
+/*TERCERA PAGINA CSS*/
+.Educacion{
+    height: 100vh;
+	width: 100%;
+	background: #000000;
+	background-size: cover;
+	background-position: center;
+    color: rgb(0, 0, 0);
+}
+.Educacion h2{
+    font-family: 'Courgette', cursive;
+    text-shadow: 0px 10px 7px rgb(255, 1, 1);
+    font-size: 75px;
+    letter-spacing: 1;
+    text-align: center;
+    margin-top: 0 auto;
+    padding-top: 150px;
+}
+.Educacion .box{
+    background-color: #000000;
+    width: 80%;
+    height: 60%;
+    margin: 0 auto;
+}
+.Educacion .box .card1{
+    position: relative;
+    border-radius: 30px;
+    background-color: #1c1c1c;
+    margin-top: 45px;
+    float: left;
+    width: 30%;
+    height: 80%;
+}
+.Educacion .box .card2{
+    position: relative;
+    border-radius: 30px;
+    background-color: #1c1c1c;
+    float: left;
+    margin-top: 45px;
+    margin-left: 62px;
+    width: 30%;
+    height: 80%;
+}
+.Educacion .box .card3{
+    position: relative;
+    border-radius: 30px;
+    background-color: #1c1c1c;
+    margin-top: 45px;
+    float: right;
+    width: 30%;
+    height: 80%;
+}
+.box h3{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.box p{
+    padding-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+.box i{
+    text-decoration: none;
+    font-size: 50px;
+	display: block;
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*CUARTA PAGINA CSS*/
+
+.Experiencias{
+    height: 100vh;
+	width: 100%;
+	background: #000000;
+	background-size: cover;
+	background-position: center;
+    color: white;
+}
+.Experiencias h2{
+    font-family: 'Courgette', cursive;
+    text-shadow: 0px 10px 7px rgb(255, 1, 1);
+    font-size: 75px;
+    letter-spacing: 1;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+.Experiencias .exp1{
+    position: relative;
+    float: left;
+    font-size: 25px;
+    width: 51%;
+    height: 60%;
+    text-decoration: none;
+    letter-spacing: 1;
+    margin-left: 100px;
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 130px;
+}
+.Experiencias .exp2{
+    position: relative;
+    float: right;
+    font-size: 450px;
+    width: 40%;
+    height: 60%;
+    display: block;
+    text-align: center;
+}
+
+/*QUINTA PAGINA CSS*/
+.Habilidades{
+    height: 100vh;
+	width: 100%;
+	background: #000000;
+	background-size: cover;
+	background-position: center;
+    color: white;
+}
+.Habilidades h2{
+    font-family: 'Courgette', cursive;
+    text-shadow: 0px 10px 7px rgb(255, 1, 1);
+    font-size: 75px;
+    letter-spacing: 1;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 120px;
+}
+.Habilidades .divAb{
+    width: 85%;
+    height: 65%;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.Habilidades .divAb .HA1{
+    width: 30%;
+    height: 30%;
+    float: left;
+    margin: 20px;
+    margin-top: 60px;
+    padding-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #1c1c1c;
+}
+.Habilidades .divAb .HA2{
+    width: 30%;
+    height: 30%;
+    float: left;
+    margin-left: 70px;
+    text-align: center;
+    margin: 20px;
+    margin-top: 60px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #1c1c1c;
+}
+.Habilidades .divAb .HA3{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin: 20px;
+    margin-top: 60px;
+    padding-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #1c1c1c;
+}
+.divAb i{
+    text-decoration: none;
+    font-size: 50px;
+	display: block;
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 
+/*QUINTA PAGINA CSS*/
+.Intereses{
+    height: 100vh;
+	width: 100%;
+	background: #000000;
+	background-size: cover;
+	background-position: center;
+    color: white;
+}
+.Intereses .title h2{
+    font-family: 'Courgette', cursive;
+    text-shadow: 0px 10px 7px rgb(255, 1, 1);
+    font-size: 75px;
+    width: 45%;
+    float: right;
+    letter-spacing: 1;
+    text-align: center;
+    margin-top: 200px;
+    padding-top: 120px;
+    padding-right: 200px;
+}
+.Intereses .divIn{
+    width: 40%;
+    height: 80%;
+    text-align: center;
+    margin-left: 200px;
+    padding-top: 100px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.Intereses .divIn .IN1{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin: 20px;
+    margin-top: 30px;
+    margin-right: 70px;
+    padding-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #1c1c1c;
+}
+.Intereses .divIn .IN2{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-left: 70px;
+    text-align: center;
+    margin: 20px;
+    margin-right: 70px;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #1c1c1c;
+}
+.divIn i{
+    text-decoration: none;
+    font-size: 50px;
+	display: block;
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 
+/*ULTIMA PAGINA CSS*/
 
-
+.Expectativas{
+    height: 100vh;
+	width: 100%;
+	background: #000000;
+	background-size: cover;
+	background-position: center;
+    color: white;
+}
+.Expectativas h2{
+    font-family: 'Courgette', cursive;
+    text-shadow: 0px 10px 7px rgb(255, 1, 1);
+    font-size: 75px;
+    letter-spacing: 1;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+.Expectativas .exp1{
+    position: relative;
+    float: left;
+    font-size: 25px;
+    width: 51%;
+    height: 60%;
+    text-decoration: none;
+    letter-spacing: 1;
+    margin-left: 100px;
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 130px;
+}
+.Expectativas .exp2 img{
+    float: right;
+    margin: 50px;
+    margin-right: 150px;
+    width: 400px;
+}
