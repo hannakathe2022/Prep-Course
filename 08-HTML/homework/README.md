@@ -57,7 +57,7 @@ III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anterior
   ❌* Establecer una imagen como fondo de toda la página
   ✅* Centrar los div en la página
   ✅* Centrar todos los elementos en la página
-  * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
+  ✅* [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
   ❌* Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
 
 ## Ejercicio II
@@ -65,18 +65,18 @@ III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anterior
 ```
 Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
 
-* Titulo
-* Descripción Personal
-* Educación
-* Experiencias Laborales
-* Skills
-* Tu foto
-* Hobbies
+* ✅Titulo
+* ✅Descripción Personal
+* ✅Educación
+* ✅Experiencias Laborales
+* ✅Skills
+* ✅Tu foto
+* ✅Hobbies
 
-Además agregá una sección más donde expliques por qué estás estudiando esta carrera y cuáles son tus expectativas al finalizar la carrera.
+✅Además agregá una sección más donde expliques por qué estás estudiando esta carrera y cuáles son tus expectativas al finalizar la carrera.
 
-Subir también este archivo a su repositorio de github
+✅Subir también este archivo a su repositorio de github
 
 ```
 
-> Para este ejercicio vos vas a tener que elegir que **tags** html usar para darle la mejor estructuración al html. Acordate que en el futuro vamos a ver más en profundidad los estilos CSS, por lo que por ahora no te preocupes tanto del layout más allá de las reglas básicas.
+> ✅Para este ejercicio vos vas a tener que elegir que **tags** html usar para darle la mejor estructuración al html. Acordate que en el futuro vamos a ver más en profundidad los estilos CSS, por lo que por ahora no te preocupes tanto del layout más allá de las reglas básicas.
